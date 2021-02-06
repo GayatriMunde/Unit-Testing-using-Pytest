@@ -1,0 +1,19 @@
+What is Unit Testing ?
+- Testing at the most atomic level is called UNIT TESTING
+- Testing a small level of functionality, a method / function / class anything
+- Testing/ Quality assurance is different, done by a separate grp but Unit Testing by the programmer itself
+- Testing captures the essence of what u want to perform
+- Capture specifications 
+- Writing unit tests conveys the understanding of the specification by the programmer
+- WHAT IS EXPECTED -> UNDERSTAND LOOKING AT UNIT tests
+- Reading unit tests give a better idea of the specifications, as it is easier to understand the code and tests written
+- Many tests, almost lines of code same as testing lines, 
+- This is also code, but needs to be organised as well
+- Many more tests to test a function
+
+Methods
+- Post Commit hook, run tests after commiting
+- Pre commit hook, commit only if tests pass 
+- Automatic tests u might have test files in addition with src files and these are run
+
+Follow ACT -> ARRANGE -> TEST
